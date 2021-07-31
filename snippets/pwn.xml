@@ -4,4 +4,7 @@
   <!-- PWN-OS Modified repos -->
   <project path="system/sepolicy" name="PWN-OS/android_system_sepolicy" />
 
+  <!-- OEM Related sources -->
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" />
+
 </manifest>
