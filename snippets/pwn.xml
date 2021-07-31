@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- PWN-OS Modified repos -->
+  <project path="system/sepolicy" name="PWN-OS/android_system_sepolicy" />
+
+</manifest>
