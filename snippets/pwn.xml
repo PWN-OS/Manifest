@@ -4,6 +4,7 @@
   <!-- PWN-OS Modified repos -->
   <project path="system/sepolicy" name="PWN-OS/android_system_sepolicy" />
   <project path="vendor/pwn" name="PWN-OS/vendor_pwn" revision="master" />
+  <project path="packages/apps/Updater" name="PWN-OS/android_packages_apps_Updater" />
 
   <!-- OEM Related sources -->
   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" />
