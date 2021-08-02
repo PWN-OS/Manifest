@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- PWN-OS devices list -->
+
+  <!-- Beryllium -->
+  <project path="device/xiaomi/beryllium" name="PWN-OS/android_device_xiaomi_beryllium" />
+  <project path="device/xiaomi/sdm845-common" name="PWN-OS/android_device_xiaomi_sdm845-common"/>
+
+</manifest>
