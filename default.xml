@@ -187,7 +187,6 @@
   <project name="LineageOS/android_hardware_qcom_vr" path="hardware/qcom-caf/vr" revision="a2c6ad6f6443dee7ec4b48f788a2c8f7ee351aa2" upstream="refs/heads/lineage-18.1" dest-branch="refs/heads/lineage-18.1" groups="qcom,pdk-qcom"/>
   <project name="LineageOS/android_hardware_qcom_wlan" path="hardware/qcom-caf/wlan" revision="23c60982c1e1e0dde405d06aa192377e7f7b877e" upstream="lineage-18.1-caf" dest-branch="lineage-18.1-caf" groups="qcom_wlan,pdk-qcom"/>
   <project name="LineageOS/android_hardware_ril" path="hardware/ril" revision="f9587934e6d3b6219ff1d5c0dd914ff65b916e6d" upstream="refs/heads/lineage-18.1" dest-branch="refs/heads/lineage-18.1" groups="pdk"/>
-  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" revision="d865b86327017fcc5be6658943f38163eb5e2c1f" upstream="refs/heads/lineage-18.1" dest-branch="refs/heads/lineage-18.1"/>
   <project name="LineageOS/android_lineage-sdk" path="lineage-sdk" revision="e1363720b061facf6368a017398d6af43bc9fbba" upstream="refs/heads/lineage-18.1" dest-branch="refs/heads/lineage-18.1"/>
   <project name="LineageOS/android_packages_apps_AudioFX" path="packages/apps/AudioFX" revision="61c0b0c66e712dd88b38849745c52d0e9d25748f" upstream="refs/heads/lineage-18.1" dest-branch="refs/heads/lineage-18.1"/>
   <project name="LineageOS/android_packages_apps_Backgrounds" path="packages/apps/Backgrounds" revision="44344d377a9ee3cb3210a97f775122b33bcaf0e0" upstream="refs/heads/lineage-18.1" dest-branch="refs/heads/lineage-18.1"/>
